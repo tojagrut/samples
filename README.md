@@ -1,1 +1,1 @@
-# samples
+# Use the SingatureUtil -> generateSignature method.
